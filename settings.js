@@ -16,22 +16,22 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['201098906252'] //ur owner number
-global.ownername = "ᗴᒪᘜᗩᘔᗩᖇ ᗩᒪᗯᗩᘔᗴᖇ❤️" //ur owner name
-global.ytname = "YT: ELGAZAR" //ur yt chanel name
-global.socialm = "GitHub: ELGAZAR" //ur github or insta name
-global.location = "Africa, Egypt, Cairo" //ur location
+global.ownername = "𝑬𝑹𝑬𝑵 𝒀𝑬𝑮𝑬𝑹" //ur owner name
+global.ytname = "YT: 𝑬𝑹𝑬𝑵" //ur yt chanel name
+global.socialm = "GitHub: 𝑬𝑹𝑬𝑵" //ur github or insta name
+global.location = "Asia, Saudi Arabia, Riyadh" //ur location
 
 //bot bomdy 
-global.ownernomer = "201098906252" //ur number
-global.premium = ['201098906252'] //ur premium number
-global.botname = '❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️' //ur bot name
-global.linkz = "https://youtube.com/@ABDALLAH_MOHAMED" //your theme url which will be displayed on whatsapp
-global.websitex = "https://telegra.ph/file/ec763cc3e7c88d0e67682.jpg" //ur website to be displayed
+global.ownernomer = "249111296444" //ur number
+global.premium = ['249111296444'] //ur premium number
+global.botname = '❤️𝑨𝑳𝑳𝑼𝑲𝑨 𝑩𝑶𝑻❤️' //ur bot name
+global.linkz = "https://www.youtube.com/channel/UCAKXRKQZ7L3PNaFnFt9cCjg" //your theme url which will be displayed on whatsapp
+global.websitex = "https://www.youtube.com/@bnimetub209" //ur website to be displayed
 global.botscript = 'https://youtube.com/@ABDALLAH_MOHAMED' //script link
 global.themeemoji = "♥" //ur theme emoji
-global.packname = "⍣الجزار الوزير يروحي⍣" //ur sticker watermark packname
-global.author = "⍣01098906252⍣" //ur sticker watermark author
-global.wm = "❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️." //ur watermark
+global.packname = "⍣ايرين عم الجميع يروحي⍣" //ur sticker watermark packname
+global.author = "⍣الوكا⍣" //ur sticker watermark author
+global.wm = "❤️𝑨𝑳𝑳𝑼𝑲𝑨 𝑩𝑶𝑻❤️." //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -40,7 +40,7 @@ global.sp = ''
 
 //messages
 global.mess = {
-    success: 'تم يروحي✨',
+    success: 'تم من عيوني✨',
     admin: '『 الامر دا لادمن بس! 』',
     botAdmin: '『 ارفع البوت ادمن الاول 』',
     premime: '『 ميزات خاصة متميزة إذا كنت ترغب في تسجيل نوع الإيجار 』',
